@@ -5,7 +5,7 @@
 - Depthmaps are generated with pretrained SC Depth model.
 - SC Depth model is trained on indoor nyu2 dataset.
 
-## Living Room 1
+## Living Room Split 1
 
 Individual Axis'             |  XY Trajectory
 :-------------------------:|:-------------------------:
@@ -17,7 +17,7 @@ Max | Mean | Median | Min | RMSE | SSE | std
 --- | ---  | ---    | --- |---   |---  |--- 
 0.105639 | 0.054230 | 0.051419 | 0.010459 | 0.058585 | 1.692088 | 0.022165
 
-## Living Room 2
+## Living Room Split 2
 
 
 Individual Axis'             |  XY Trajectory
