@@ -22,7 +22,7 @@ Max | Mean | Median | Min | RMSE | SSE | std
 
 Individual Axis'             |  XY Trajectory
 :-------------------------:|:-------------------------:
-![](./orbslam_and_scdepth_performance_xyz.png) |  ![](./orbslam_and_scdepth_performance_traj.png)
+![](./orbslam_and_scdepth_performance_xyz_1.png) |  ![](./orbslam_and_scdepth_performance_traj_1.png)
 
 EVO_APE Evaluation:
 
