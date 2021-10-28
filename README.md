@@ -17,7 +17,7 @@ Max | Mean | Median | Min | RMSE | SSE | std
 --- | ---  | ---    | --- |---   |---  |--- 
 0.105639 | 0.054230 | 0.051419 | 0.010459 | 0.058585 | 1.692088 | 0.022165
 
-## Living Room Split 1 (529 frames)
+### Living Room Split 1 (529 frames)
 
 - Ground truth path length: 9.458m
 - orbslam path length: 10.466m
@@ -33,7 +33,7 @@ Max | Mean | Median | Min | RMSE | SSE | std
 0.126153 | 0.054854 | 0.048657 | 0.003954 | 0.061858 | 2.024148 | 0.028589
 
 
-## Living Room Split 2 (506 frames)
+### Living Room Split 2 (506 frames)
 
 - Ground truth path length: 8.513m
 - orbslam path length: 10.253m
@@ -47,3 +47,11 @@ EVO_APE Evaluation:
 Max | Mean | Median | Min | RMSE | SSE | std
 --- | ---  | ---    | --- |---   |---  |--- 
 0.148238 | 0.068421 | 0.065743 | 0.010298 | 0.074746 | 2.826994 | 0.030092
+
+## 2. ORB SLAM 2 with GT Depth
+
+EVO_APE Evaluation:
+
+Max | Mean | Median | Min | RMSE | SSE | std
+--- | ---  | ---    | --- |---   |---  |--- 
+0.1253 | 0.07612 | 0.065743 | 0.010298 | 0.100312 | 3.5262 | 0.020760
