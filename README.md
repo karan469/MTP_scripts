@@ -64,4 +64,4 @@ In next iteration, the gradients from gradslam shall backprop all the way to SC 
 
 Max | Mean | Median | Min | RMSE | SSE | std
 --- | ---  | ---    | --- |---   |---  |--- 
-0.004351 | 0.002895 | 0.003136 | 0.000000 | 0.003178 | 0.000081 | 0.001312
+0.004351 | 0.004895 | 0.004136 | 0.000000 | 0.006178 | 0.000081 | 0.001312
